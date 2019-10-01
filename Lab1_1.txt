@@ -10,11 +10,11 @@ skinparam usecase {
 	BorderColor Black
 }
 left to right direction
-actor P0 as "Человек"
-actor M0 as "Алгоритм"
-actor P as "Программист"
-actor M as "Язык программирования"
-usecase A as "Разработка программного обеспечения"
+actor P0 as "Р§РµР»РѕРІРµРє"
+actor M0 as "РђР»РіРѕСЂРёС‚Рј"
+actor P as "РџСЂРѕРіСЂР°РјРјРёСЃС‚"
+actor M as "РЇР·С‹Рє РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёСЏ"
+usecase A as "Р Р°Р·СЂР°Р±РѕС‚РєР° РїСЂРѕРіСЂР°РјРјРЅРѕРіРѕ РѕР±РµСЃРїРµС‡РµРЅРёСЏ"
 P -- (A)
 (A) -- M
 P0 <|-- P
