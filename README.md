@@ -7,7 +7,7 @@
 
 Программист должен создать ПО в соответствии с ГОСТ.
 
-![Image alt](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/Lab1.png)
+![Image alt]()
 ## Лабораторная 2
 ## Лабораторная 3
 ## Лабораторная 4
