@@ -1,5 +1,5 @@
 # Отчет о лабораторных работах
-# Студент группы [ИДБ-16-06] (https://github.com/stankin/design-1/wiki/list-idb-16-06) Якубова В.А.
+# Студент группы [ИДБ-16-06](https://github.com/stankin/design-1/wiki/list-idb-16-06) Якубова В.А.
 
 ## Лабораторная 1
 
