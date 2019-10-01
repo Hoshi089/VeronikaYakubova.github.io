@@ -18,7 +18,9 @@ IDEF0-диаграмма в развернутом виде:
 
 ![Image alt](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/PLANTUML_DIA.png)
 
+Диаграмма прецедентов и [код ее построения](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/Lab1_1.txt)
 
+![Image alt](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/PLANTUML_DIA_1.png)
 
 ## Лабораторная 2
 ## Лабораторная 3
