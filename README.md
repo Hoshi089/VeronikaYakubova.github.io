@@ -15,6 +15,7 @@ IDEF0-диаграмма в развернутом виде:
 Создание диаграммы классов и диаграммы прецедентов в PLANTUML (программное средство автоматической генерации UML-диаграмм).
 
 Диаграмма классов и [код ее построения](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/Lab1.txt)
+
 ![Image alt](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/PLANTUML_DIA.png)
 
 
