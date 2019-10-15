@@ -38,6 +38,11 @@ IDEF0-диаграмма в развернутом виде:
 
 [Проект RAMUS](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/Lab2.rsf)
 
+
+Диаграмма прецедентов и [код ее построения](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/Lab2.txt)
+
+![Image alt](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/Diagramm2.png)
+
 ## Лабораторная 3
 ## Лабораторная 4
 ## Лабораторная 5
