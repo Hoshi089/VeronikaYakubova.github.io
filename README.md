@@ -23,6 +23,21 @@ IDEF0-диаграмма в развернутом виде:
 ![Image alt](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/PLANTUML_DIA_1.png)
 
 ## Лабораторная 2
+
+Рисунок контекста:
+
+![Image alt](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/Lab1.PNG)
+
+Рисунок диаграммы PDC:
+
+![Image alt](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/modelPDC.png)
+
+Пример диаграммы DFD с 4 программными модулями и 2 таблицами:
+
+![Image alt](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/modelPDCDFD.png)
+
+[Проект RAMUS](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/Lab2.rsf)
+
 ## Лабораторная 3
 ## Лабораторная 4
 ## Лабораторная 5
