@@ -55,6 +55,11 @@ DFD:
 
 ![Image alt](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/PLANT3.png)
 
+
+ERD:
+
+![Image alt](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/ERD.png)
+
 ## Лабораторная 4
 ## Лабораторная 5
 ## Лабораторная 6
