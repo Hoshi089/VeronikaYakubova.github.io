@@ -44,6 +44,17 @@ IDEF0-диаграмма в развернутом виде:
 ![Image alt](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/Diagramma2.png)
 
 ## Лабораторная 3
+
+DFD:
+
+![Image alt](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/model3.png)
+
+[Проект RAMUS](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/Lab3.rsf)
+
+Диаграмма прецедентов и [код ее построения](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/Lab3.txt)
+
+![Image alt](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/PLANT3.png)
+
 ## Лабораторная 4
 ## Лабораторная 5
 ## Лабораторная 6
