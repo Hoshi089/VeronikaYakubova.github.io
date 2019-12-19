@@ -1,0 +1,24 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Потоки" as P {}
+class "Входящие" as I {}
+class "Выходящие" as OU {}
+class "Управляющие" as U {}
+class "ПДн клиентов" as Z {}
+class "БД ПДн клиентов" as O {}
+class "ФЗ №152 "О персональных данных"" as N {}
+
+P ||--o{ I
+P ||--o{ OU
+P ||--o{ U
+I ||--o{ Z
+OU ||--o{ O
+U ||--o{ N
+
+
+hide circle
+@enduml

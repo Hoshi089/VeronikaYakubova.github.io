@@ -1,0 +1,21 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Роли" as R {}
+class "Люди" as L {}
+class "Инструменты" as I {}
+class "Директор компании" as Z {}
+class "Сотрудник компании" as D {}
+class "Система сбора и хранения ПДн" as S {}
+
+R ||--o{ L
+R ||--o{ I
+L ||--o{ Z
+L ||--o{ D
+I ||--o{ S
+
+hide circle
+@enduml

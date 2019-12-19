@@ -1,0 +1,23 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Модули" as M {}
+class "Экранная форма" as V {}
+class "Модуль обработки" as O {}
+class "Форма ввода данных" as Tr {}
+class "Форма просмотра шаблона печатной формы" as Mar {}
+class "Заполнение шаблона печатной формы" as ZSh {}
+class "Запись изменений в БД" as SSh {}
+
+M ||--o{ V
+M ||--o{ O
+V ||--|| Tr
+V ||--|| Mar
+O ||--|| ZSh
+O ||--|| SSh
+
+hide circle
+@enduml
