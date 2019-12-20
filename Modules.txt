@@ -5,19 +5,29 @@ skinparam class {
 	BorderColor Black
 }
 class "Модули" as M {}
+class "В приложении" as A {}
+class "Сторонний софт" as S {}
 class "Экранная форма" as V {}
 class "Модуль обработки" as O {}
-class "Форма ввода данных" as Tr {}
+class "Модуль обработки" as I {}
+class "Форма отображения данных из БД" as Tr {}
+class "Форма заполнения БД данными" as Bd {}
 class "Форма просмотра шаблона печатной формы" as Mar {}
-class "Заполнение шаблона печатной формы" as ZSh {}
-class "Запись изменений в БД" as SSh {}
+class "Проверка допустимых сроков обработки" as ZSh {}
+class "Фиксирование результатов проверки" as SSh {}
+class "Выгрузка телефонных номеров для сервиса смс-рассылок" as II {}
 
-M ||--o{ V
-M ||--o{ O
+M ||--o{ A
+M ||--o{ S
+A ||--o{ V
+A ||--o{ O
+S ||--o{ I
 V ||--|| Tr
+V ||--|| Bd
 V ||--|| Mar
 O ||--|| ZSh
 O ||--|| SSh
+I ||--|| II
 
 hide circle
 @enduml
